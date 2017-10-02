@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompressedRTF", "CompressedRTF\CompressedRTF.csproj", "{F227AF98-76CE-4945-B855-C42A163E906F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompressedRTF.Tester", "CompressedRTF.Tester\CompressedRTF.Tester.csproj", "{EF00D406-9EA6-4914-B122-D7C4183E5796}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F227AF98-76CE-4945-B855-C42A163E906F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F227AF98-76CE-4945-B855-C42A163E906F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F227AF98-76CE-4945-B855-C42A163E906F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F227AF98-76CE-4945-B855-C42A163E906F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF00D406-9EA6-4914-B122-D7C4183E5796}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF00D406-9EA6-4914-B122-D7C4183E5796}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF00D406-9EA6-4914-B122-D7C4183E5796}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF00D406-9EA6-4914-B122-D7C4183E5796}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5206D387-DEAC-4777-A807-122F14504EE6}
+	EndGlobalSection
+EndGlobal
